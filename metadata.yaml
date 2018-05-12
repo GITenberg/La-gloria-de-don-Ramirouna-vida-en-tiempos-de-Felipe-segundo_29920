@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34250
     wikipedia: http://es.wikipedia.org/wiki/Enrique_Larreta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29920#La-gloria-de-don-Ramirouna-vida-en-tiempos-de-Felipe-segundo
 gutenberg_issued: '2009-09-06'
 gutenberg_type: Text
 identifiers:
