@@ -1,0 +1,34 @@
+_repo: La-gloria-de-don-Ramirouna-vida-en-tiempos-de-Felipe-segundo_29920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Larreta, Enrique
+    aliases:
+    - Rodriguez de Larreta, Enrique
+    - Rodríguez de Larreta, Enrique
+    - Larreta, Enrique Rodríguez
+    - Rodríguez Larreta, Enrique
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '34250'
+    url: http://www.gutenberg.org/2009/agents/34250
+    wikipedia: http://es.wikipedia.org/wiki/Enrique_Larreta
+description: ''
+gutenberg_issued: '2009-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29920'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spain -- History -- Philip II, 1556-1598 -- Fiction'
+title: 'La gloria de don Ramiro
+
+  una vida en tiempos de Felipe segundo'
+url: http://www.gutenberg.org/ebooks/29920
